@@ -8,7 +8,7 @@ from azure.search.documents.indexes.models import SearchIndex, SimpleField, Sear
 from azure.core.credentials import AzureKeyCredential
 from dotenv import load_dotenv
 
-# Load environment variables
+# Load environment variables 
 load_dotenv()
 
 # Azure AI Search setup
